@@ -319,10 +319,10 @@ information.
 
 Android sample:
 
-https://github.disney.com/storage/user/51464/files/57f23073-7941-4d33-88ff-45d4e64341a7
+https://github.com/matiasilveiro/flutter-accessibility-poc/assets/8867806/0f549aa6-a5ef-41d5-849c-04d2e33ec100
 
 
 iOS sample:
 
-https://github.disney.com/storage/user/51464/files/c7696956-1e61-42e5-b64e-ff76c55c8484
+https://github.com/matiasilveiro/flutter-accessibility-poc/assets/8867806/c1a2266c-9475-40ef-94f5-ca64784115dc
 
